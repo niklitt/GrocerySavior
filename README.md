@@ -1,5 +1,20 @@
-# How to start Web Application
-1. Make sure VSCode is installed
-2. Open Project in VSCode
-3. Install "Live Server" plugin (minimum v5.7.9)
-4. Right click index.html and "Open with Live Server"
+# Grocery Savior
+
+Collaborative side project with used to scrape local grocers for coupons and best deals for specific and general foods. This will allow users to easily find the best deals so they know where to go to save the most money.
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:5173 in your browser.
+
+## Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm test` - Run tests
+- `npm run lint` - Lint code
+- `npm run format` - Format code
