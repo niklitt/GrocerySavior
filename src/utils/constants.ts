@@ -1,0 +1,2 @@
+export const EARTH_RADIUS_MILES = 3959;
+export const GEOLOCATION_TIMEOUT_MS = 10000;
